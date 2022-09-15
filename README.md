@@ -1,4 +1,4 @@
-# AI for the Game of Gomoku
+# AI Engine for Gomoku
 
 This project designs an AI engine for the game Gomoku, where users are aimed to place a horizontal, vertical or diagonal sequence of 5 stones on a 8 x 8 board, when alternatively placing a stone on an empty space. The game follows all the rules presented in the page https://en.wikipedia.org/wiki/Gomoku. 
 
